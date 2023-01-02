@@ -49,7 +49,7 @@
     "jison": "^0.4.18",
     "markdown-it": "~8.4.2",
     "underscore": "~1.9.1",
-    "webpack": "~4.29.6"
+    "webpack": "~5.75.0"
   },
   "dependencies": {}
 }
